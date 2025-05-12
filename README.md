@@ -15,7 +15,7 @@ This repo is the official implementation of "DDPA-3DVG: Vision-Language Dual-Dec
 | **EDA**               | 3D       |     85.8 |     68.6 |     49.1 |     37.6 |     54.6 |     42.3 |
 | **ViewRefer**         | 3D       |           -  |       -  |          33.1 |     26.5 |        41.3 |     33.7 |
 | **3DRP-Net**          | 3D       |         83.1 |     67.7 |          42.1 |     32.0 |        50.1 |     38.9 |
-| **3DVLP**             | 3D       |     85.2** |     70.0 |          43.7 |     33.4 |     51.7 |     40.5 |
+| **3DVLP**             | 3D       |     85.2 |     70.0 |          43.7 |     33.4 |     51.7 |     40.5 |
 | **DDPA-3DVG**         | 3D       |     **86.8** |     **70.2** |     **49.8** |     **38.4** |     **55.3** |     **43.3** |
 ### One Stage
 | Methods               | Modality | Unique(IOU25) | Unique(IOU50) | Multiple(IOU25) | Multiple(IOU50) | Overall(IOU25) |Overall(IOU50)|

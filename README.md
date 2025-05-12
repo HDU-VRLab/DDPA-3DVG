@@ -10,8 +10,6 @@ This repo is the official implementation of "DDPA-3DVG: Vision-Language Dual-Dec
 #### Two Stage
 | Methods               | Modality | Unique(IOU25) | Unique(IOU50) | Multiple(IOU25) | Multiple(IOU50) | Overall(IOU25) |Overall(IOU50)|
 |-----------------------|----------|-------------:|---------:|--------------:|---------:|------------:|---------:|
-| **FFL-3DOG**          | 3D       |         78.8 |     67.9 |          35.2 |     25.7 |        41.3 |     34.0 |
-| **3DJCG**             | 3D+2D    |         83.5 |     64.3 |          41.4 |     30.8 |        49.6 |     37.3 |
 | **BUTD-DETR**         | 3D       |         82.9 |     65.0 |     44.7 |     34.0 |        50.4 |     38.6 |
 | **EDA**               | 3D       |     85.8 |     68.6 |     49.1 |     37.6 |     54.6 |     42.3 |
 | **ViewRefer**         | 3D       |           -  |       -  |          33.1 |     26.5 |        41.3 |     33.7 |

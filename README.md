@@ -44,4 +44,5 @@ This repo is the official implementation of "DDPA-3DVG: Vision-Language Dual-Dec
 | **EDA**          |         70.3 |     62.9 |          54.1 |     68.7 |        68.1 |
 | **3DRefTR-SR**             |     - |     - |          - |    - |     68.5 |
 | **DDPA-3DVG**         |     **71.4** |     **64.0** |     **55.3** |     **70.2** |     **69.7** |
-![DDPA-3DVG](figures/vis.png)
+
+![Visualization](figures/vis.png)
